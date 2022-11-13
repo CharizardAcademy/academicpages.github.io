@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "高(Gao), 英强 (Yingqiang)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
