@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yingqiang"
   avatar           : "me&nini.jpeg"
-  bio              : "I'm a philosopher. Philosophers are not happy by nature."
+  bio              : "江头未是风波恶，别有人间行路难。"
   location         : "Zurich, Switzerland"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "ETH Zürich"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=HTRn2XAAAAAJ&hl=zh-CN"
   email            : "yingqiang.gao@ini.ethz.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,14 +102,14 @@ author:
   instagram        : "https://www.instagram.com/charizardacademy/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/yingqiang-gao/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
