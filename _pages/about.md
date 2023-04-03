@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yingqiang. I'm a Charizard trainer, poet, flutist and full-time thinker. I study the endogeneous factors that trigger the mega evolution of Fire and Dragon type Pokemons, and Natural Language Processing. 
+My name is Yingqiang (aka 英强). I wear multiple hats as a Charizard trainer, poet, flutist, and a full-time thinker. I'm currently diving deep into studying the endogenous factors that trigger the mega evolution of Fire and Dragon type Pokemons, alongside exploring the intriguing world of Natural Language Processing. 
 
-I come from the city of Jinan ([濟南](https://en.wikipedia.org/wiki/Jinan)), Shandong province in China. This is where the two greatest Song Ci poets, Li Qing Zhao ([李清照](https://en.wikipedia.org/wiki/Li_Qingzhao)) and Xin Qi Ji ([辛弃疾](https://en.wikipedia.org/wiki/Xin_Qiji), I see him as my life long mentor), were born and raised.
+I come from the city of Jinan ([濟南](https://en.wikipedia.org/wiki/Jinan)), Shandong province in China. This is where the two greatest poets, Li Qing Zhao ([李清照](https://en.wikipedia.org/wiki/Li_Qingzhao)) and Xin Qi Ji ([辛弃疾](https://en.wikipedia.org/wiki/Xin_Qiji), whom I see as my life long mentor), were born and raised.
 
-I have high enthusiasm for Pre-Qin Period Philosophy, especially Confusianism and its relation to agriculture. Besides that, I'm a bad cook and have no interests in any type of cheese at all. 
+I have a strong interest in philosophy of the pre-Qin dynasty era, especially Confucianism and its influence on the Chinese ethical system.
 
 I now live in Switzerland and work as a Ph.D student affiliated at [Institute of Neuroinformatics](https://www.ini.uzh.ch/en.html), University of Zurich and ETH Zürich. Before joining INI, I completed my master study at [Technische Universität München](https://tum.de) (TUM) and bachelor study at [Tongji University Shanghai](https://www.tongji.edu.cn) (上海同济大学).
 
- 
+I have cheese.
 
 我说汉语。 I'm fluent in English.  Deutsch ist für mich auch kein Problem.
