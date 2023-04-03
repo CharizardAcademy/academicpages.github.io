@@ -4,7 +4,7 @@ collection: teaching
 type: "Master course at ETH Zürich"
 permalink: /teaching/2014-spring-teaching-1
 venue: "ETH Zürich, D-ITET"
-date:
+date: 2015-01-01
 location: "City, Country"
 ---
 
