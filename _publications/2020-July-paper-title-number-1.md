@@ -8,7 +8,6 @@ venue: 'Proceedings of the 58th Annual Meeting of the Association for Computatio
 paperurl: 'https://aclanthology.org/2020.acl-main.145/'
 citation: 'Yingqiang Gao, Nikola I. Nikolov, Yuhuang Hu, and Richard H.R. Hahnloser. 2020. Character-Level Translation with Self-attention. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 1591–1604, Online. Association for Computational Linguistics.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://aclanthology.org/2020.acl-main.145/)
 
