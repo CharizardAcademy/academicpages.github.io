@@ -24,7 +24,7 @@ Work experience
 
 * Winter 2018: Research Assistant
   * Technische Universität München, München, Germany
-  * Duties included: Neurorobitics, [Human Brain Project] (https://www.neurorobotics.net/)
+  * Duties included: Neurorobitics, [Human Brain Project](https://www.neurorobotics.net/)
   * Supervisor: Benedikt Feldotto
   
 Skills
