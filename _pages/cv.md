@@ -19,7 +19,7 @@ Work experience
 ======
 * Spring 2017: Research Assistant
   * Helmholtz Zentrum Dresden-Rossendorf (HZDR), Dresden, Germany
-  * Duties included: Magnetohydrodynamics, [DRESDYN](https://www.hzdr.de/db/Cms?pOid=40412&pNid=3163&pLang=de) Project
+  * Duties included: Magnetohydrodynamics, [DRESDYN Project](https://www.hzdr.de/db/Cms?pOid=40412&pNid=3163&pLang=de) 
   * Supervisor: Tomas Gundrum
 
 * Winter 2018: Research Assistant
