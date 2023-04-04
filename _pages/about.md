@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yingqiang (aka 英强). I wear multiple hats as a Charizard trainer, poet, flutist, and a full-time thinker. I'm currently diving deep into studying the endogenous factors that trigger the mega evolution of Fire and Dragon type Pokemons, alongside exploring the intriguing world of Natural Language Processing. 
+My name is 英强 (aka Yingqiang). I wear multiple hats as a Charizard trainer, poet, flutist, and a full-time thinker. I'm currently diving deep into studying the endogenous factors that trigger the mega evolution of Fire and Dragon type Pokemons, alongside exploring the intriguing world of Natural Language Processing. 
 
 I come from the city of Jinan ([濟南](https://en.wikipedia.org/wiki/Jinan)), Shandong province in China. This is where the two greatest poets, Li Qing Zhao ([李清照](https://en.wikipedia.org/wiki/Li_Qingzhao)) and Xin Qi Ji ([辛弃疾](https://en.wikipedia.org/wiki/Xin_Qiji), whom I see as my life long mentor), were born and raised.
 
