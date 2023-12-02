@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Electrical Engineering, Tongji University, Shanghai, 2017
+* B.Eng. in Electrical Engineering, Shanghai Tongji University, 2017
 * M.Sc. in Informatics, Technische Universität München, 2020
-* Ph.D in Neuroinformatics, ETH Zürich, 2024 (expected)
+* Ph.D in NLP, ETH Zürich, 2024 (expected)
 
 Work experience
 ======
@@ -25,12 +25,14 @@ Work experience
 * Winter 2018: Research Assistant
   * Technische Universität München, München, Germany
   * Duties included: Neurorobitics, [Human Brain Project](https://www.neurorobotics.net/)
-  * Supervisor: Benedikt Feldotto
+  * Supervisor: Dr. Benedikt Feldotto
   
 Skills
 ======
 * Natural Language Processing
-* Frontend Development (React.js)
+* Machine Learning
+* Full-Stack Development
+* IT Infrastructure
 
 Publications
 ======
@@ -52,4 +54,9 @@ Teaching
   
 Service and Leadership
 ======
-* Representor of the Strategy Commission of [AVETH](https://www.aveth.ethz.ch/aboutus/commissions/) 
+* Representor of the Strategy Commission of the The Association of Scientific Staff at ETH ([AVETH](https://www.aveth.ethz.ch/aboutus/commissions/)) 
+* Member of Swiss Association of Natural Language Processing ([SwissNLP](https://swissnlp.org/))
+* Associated Doctoral Researcher of [ETH AI Center](https://ai.ethz.ch/)
+* Founder of [Endocite](https://www.endocite.com/) Association
+* Reviewer of Association of Computational Linguistics ([ACL](https://www.aclweb.org/))
+* Founder and First Flutist of Suyu Chinese Ochestra (苏黎世苏遇民乐团)

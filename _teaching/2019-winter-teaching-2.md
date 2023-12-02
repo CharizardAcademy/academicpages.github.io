@@ -1,7 +1,7 @@
 ---
 title: "IN2210 Tracking and Detection in Computer Vision"
 collection: teaching
-type: "Master course at ETH Zürich"
+type: "Master course at TU München"
 permalink: /teaching/2019-winter-teaching-2
 venue: "TUM, Department of Informatics"
 date: 2019-01-01
