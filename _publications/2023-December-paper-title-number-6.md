@@ -1,7 +1,7 @@
 ---
 title: "GreedyCAS: Unsupervised Scientific Abstract Segmentation with Normalized Mutual Information"
 collection: publications
-permalink: /publication/2023-December-paper-title-number-5
+permalink: /publication/2023-December-paper-title-number-6
 excerpt: ''
 date: 2023-December
 venue: 'Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing'
