@@ -18,3 +18,7 @@ I now live in Switzerland and work as a Ph.D student affiliated at [Institute of
 I hate cheese and love coriander.
 
 我说汉语。I speak English. Ich spreche Deutsch.
+
+#### For recruiters
+
+Here's my latest [CV](https://github.com/CharizardAcademy/Yingqiang-CV/blob/main/CV-December-Yingqiang.pdf). 
