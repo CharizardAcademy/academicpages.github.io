@@ -21,4 +21,4 @@ I hate cheese and love coriander.
 
 ### For recruiters
 
-Here's my latest [CV](https://github.com/CharizardAcademy/Yingqiang-CV/blob/main/CV-December-Yingqiang.pdf). 
+Here's my latest [CV](https://github.com/CharizardAcademy/Yingqiang-CV/blob/main/CV-Feb-2024.pdf). 
