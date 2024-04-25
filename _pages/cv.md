@@ -13,10 +13,15 @@ Education
 ======
 * B.Eng. in Electrical Engineering, Shanghai Tongji University, 2017
 * M.Sc. in Informatics, Technische Universität München, 2020
-* Ph.D in NLP, ETH Zürich, 2024 (expected)
+* Ph.D in NLP, ETH Zürich, 2024
 
 Work experience
 ======
+* Spring 2024: Academic Associate
+  * Institute of Computational Linguistics, Universität Zürich, Zürich, Switzerland
+  * Duties included: Language, Technology, Accessibility
+  * Supervisor: Prof. Dr. Sarah Ebling
+
 * Spring 2017: Research Assistant
   * Helmholtz Zentrum Dresden-Rossendorf (HZDR), Dresden, Germany
   * Duties included: Magnetohydrodynamics, [DRESDYN Project](https://www.hzdr.de/db/Cms?pOid=40412&pNid=3163&pLang=de) 

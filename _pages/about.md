@@ -15,8 +15,6 @@ I have a strong interest in philosophy of the pre-Qin dynasty era, especially Co
 
 I now live in Switzerland and work as a Ph.D student affiliated at [Institute of Neuroinformatics](https://www.ini.uzh.ch/en.html), University of Zurich and ETH Zürich. Before joining INI, I completed my master study at [Technische Universität München](https://tum.de) (TUM) and bachelor study at [Tongji University Shanghai](https://www.tongji.edu.cn) (上海同济大学).
 
-I hate cheese and love coriander.
-
 我说汉语。I speak English. Ich spreche Deutsch.
 
 ### For recruiters
